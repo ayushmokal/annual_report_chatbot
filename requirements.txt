@@ -1,0 +1,3 @@
+PyPDF2
+dialogflow 
+# Add Flask if you're building a web frontend
